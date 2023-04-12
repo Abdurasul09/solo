@@ -1,0 +1,177 @@
+{
+  "products": [
+    {
+      "name": "Карго",
+      "image": "https://aviapoint.net/image/cache/catalog/real-ap/Kurtazh/briuki-formennye-2-2-1024x1024.jpg",
+      "description": "брюкиииииииииииииииииииииии",
+      "price": "100",
+      "brand": "Карго",
+      "type": "Мужская",
+      "typeClothes": "Брюки",
+      "id": 9
+    },
+    {
+      "name": "брюки",
+      "image": "https://autstok.com/images/articles/64174_325425232.jpg",
+      "description": "брюкииииииииииииииии",
+      "price": "150",
+      "brand": "брюкииии",
+      "type": "Мужская",
+      "typeClothes": "Брюки",
+      "id": 10
+    },
+    {
+      "name": "верхххх",
+      "image": "https://www.sportkult.ru/ipreview/goods/820/820/1901855_2430.jpg",
+      "description": "верххххххххххххххххх",
+      "price": "50000",
+      "brand": "Zara",
+      "type": "Мужская",
+      "typeClothes": "Верхняя одежда",
+      "id": 11
+    },
+    {
+      "name": "верхххх",
+      "image": "https://dinomama.ru/images/goods/small/Didriksons_1913_501781_364_1.jpg",
+      "description": "верххххххххххххххххх",
+      "price": "60000",
+      "brand": "зара",
+      "type": "Мужская",
+      "typeClothes": "Верхняя одежда",
+      "id": 12
+    },
+    {
+      "name": "Домашняя",
+      "image": "https://img.akusherstvo.ru/images/magaz/im485201.jpg",
+      "description": "Домашняяяяяяяяяяя",
+      "price": "20000",
+      "brand": "Домашняя",
+      "type": "Детская",
+      "typeClothes": "Домашняя одежда",
+      "id": 13
+    },
+    {
+      "name": "Домашняя",
+      "image": "https://images.shafastatic.net/205345795",
+      "description": "Домашняяяяяяяяяяя",
+      "price": "20300",
+      "brand": "Домашняя",
+      "type": "Женская",
+      "typeClothes": "Домашняя одежда",
+      "id": 14
+    },
+    {
+      "name": "майка",
+      "image": "https://i.pinimg.com/236x/ec/a4/ec/eca4ec8fc5354617d58b0ffdd5b39654.jpg",
+      "description": "майкааааааааааа",
+      "price": "1000",
+      "brand": "майка",
+      "type": "Женская",
+      "typeClothes": "Майки",
+      "id": 15
+    },
+    {
+      "name": "майка",
+      "image": "https://i.pinimg.com/236x/ae/cf/f4/aecff4b2700578880c84ad6c80de98c6.jpg",
+      "description": "майкааааааааааа",
+      "price": "1400",
+      "brand": "майка",
+      "type": "Женская",
+      "typeClothes": "Майки",
+      "id": 16
+    },
+    {
+      "name": "Нижнее",
+      "image": "https://i.pinimg.com/236x/45/c1/5d/45c15d1d86321b090cbacb99d0e33d19.jpg",
+      "description": "Нижнееееееееее",
+      "price": "1000",
+      "brand": "Нижнее",
+      "type": "Женская",
+      "typeClothes": "Нижнее белье",
+      "id": 17
+    },
+    {
+      "name": "Нижнее",
+      "image": "https://i.pinimg.com/236x/de/70/9a/de709abcaf25064438f079e2f331e046.jpg",
+      "description": "Нижнееееееееее",
+      "price": "1000",
+      "brand": "Нижнее",
+      "type": "Женская",
+      "typeClothes": "Нижнее белье",
+      "id": 18
+    },
+    {
+      "name": "Носки",
+      "image": "https://i.pinimg.com/236x/7d/01/60/7d0160ce01c72bd0e6b0ac9493c1bb40.jpg",
+      "description": "Носкиииииии",
+      "price": "500",
+      "brand": "Носки",
+      "type": "Женская",
+      "typeClothes": "Носки",
+      "id": 19
+    },
+    {
+      "name": "Носки",
+      "image": "https://i.pinimg.com/236x/5e/4a/52/5e4a527673b709dc402234cf05989024.jpg",
+      "description": "Носкиииииии",
+      "price": "700",
+      "brand": "носки",
+      "type": "Женская",
+      "typeClothes": "Носки",
+      "id": 20
+    },
+    {
+      "name": "Пиджаки",
+      "image": "https://i.pinimg.com/736x/0d/0a/9b/0d0a9bb39e3e8795d537b3367f3ba075.jpg",
+      "description": "Пиджакииииии",
+      "price": "4000",
+      "brand": "Пиджаки",
+      "type": "Детская",
+      "typeClothes": "Пиджаки",
+      "id": 21
+    },
+    {
+      "name": "Пиджаки",
+      "image": "https://i.pinimg.com/236x/be/6a/cf/be6acfbafae575a937b54817a8f86916.jpg",
+      "description": "Пиджакиииииии",
+      "price": "30000",
+      "brand": "Пиджаки",
+      "type": "Детская",
+      "typeClothes": "Пиджаки",
+      "id": 22
+    },
+    {
+      "name": "Плавки",
+      "image": "https://i.pinimg.com/236x/6d/5c/9f/6d5c9f9f398cb2eef29c7509798ac206.jpg",
+      "description": "Плавкиииииии",
+      "price": "300",
+      "brand": "Плавки",
+      "type": "Детская",
+      "typeClothes": "Плавки",
+      "id": 23
+    },
+    {
+      "name": "Плавки",
+      "image": "https://i.pinimg.com/236x/d7/d4/d9/d7d4d9723d8bb19479cd2151ca60e889.jpg",
+      "description": "Плавкиииииии",
+      "price": "500",
+      "brand": "Плавки",
+      "type": "Детская",
+      "typeClothes": "Плавки",
+      "id": 24
+    }
+  ],
+  "comments": [
+    {
+      "comment": "gggggggggggggggggg",
+      "userEmail": "erlank123456789@gmail.com",
+      "productId": 9,
+      "id": 13
+    },
+    {
+      "comment": "класс",
+      "productId": 10,
+      "id": 14
+    }
+  ]
+}
